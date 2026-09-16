@@ -4,4 +4,4 @@
 
 📥 [下載最新版 APK](https://github.com/Wolke/studylock-releases/releases/latest/download/StudyLock.apk)
 
-🔒 [隱私權政策](https://wolke.github.io/studylock-privacy/)
+🔒 隱私權政策：見 privacy.html（完全離線、零資料蒐集）

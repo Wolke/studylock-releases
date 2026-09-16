@@ -14,7 +14,7 @@
 | **APK 下載連結（永久指向最新版）** | `https://github.com/Wolke/studylock-releases/releases/latest/download/StudyLock.apk` |
 | 目前版本 | v1.0（1.0 MB） |
 | SHA-256 | `a1e783b1c6258e06f59bbf5b0b3a34909ad768b45fd04f5d6c3bd58d331bc3f2` |
-| 隱私權政策 | `https://wolke.github.io/studylock-privacy/` |
+| 隱私權政策 | `網站內的 privacy.html 頁面（見本 repo privacy.html）` |
 | 系統需求 | Android 8.0（API 26）以上 |
 | 主色 | Indigo `#283593`（配色可參考 feature graphic） |
 
